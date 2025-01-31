@@ -1,1 +1,1 @@
-print ("Привет"gdsgfd
+print ("Привет")
